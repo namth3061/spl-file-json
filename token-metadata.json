@@ -2,7 +2,7 @@
   "name": "My Custom Token",
   "symbol": "MCT",
   "description": "This is my custom SPL token with metadata.",
-  "image": "https://media.tenor.com/rdjbmvCoo8oAAAAM/haa-impressive.gif",
+  "image": "https://raw.githubusercontent.com/namth3061/spl-file-json/dff8aa21c70d216de7daa4255d7bfe218d470780/next.svg",
   "attributes": [],
   "properties": {
     "creators": [
