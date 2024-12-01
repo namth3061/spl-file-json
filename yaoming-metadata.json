@@ -1,0 +1,15 @@
+{
+  "name": "My Custom Token",
+  "symbol": "MCT",
+  "description": "This is my custom SPL token with metadata.",
+  "image": "https://media.tenor.com/rdjbmvCoo8oAAAAM/haa-impressive.gif",
+  "attributes": [],
+  "properties": {
+    "creators": [
+      {
+        "address": "HKQoP7pRPW1BETJQgoC7kuQSAn26p6vnnUCZSVFTMWS5",
+        "share": 100
+      }
+    ]
+  }
+}
