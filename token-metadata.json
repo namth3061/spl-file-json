@@ -1,15 +1,32 @@
 {
-  "name": "My Custom Token",
-  "symbol": "MCT",
-  "description": "This is my custom SPL token with metadata.",
-  "image": "https://raw.githubusercontent.com/namth3061/spl-file-json/dff8aa21c70d216de7daa4255d7bfe218d470780/next.svg",
-  "attributes": [],
-  "properties": {
-    "creators": [
-      {
-        "address": "HKQoP7pRPW1BETJQgoC7kuQSAn26p6vnnUCZSVFTMWS5",
-        "share": 100
-      }
-    ]
-  }
+    "name": "My Custom Token1",
+    "symbol": "MCT1",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/namth3061/spl-file-json/dff8aa21c70d216de7daa4255d7bfe218d470780/next.svg",
+    "attributes": [
+        {
+            "trait_type": "telegram",
+            "value": ""
+        },
+        {
+            "trait_type": "website",
+            "value": ""
+        },
+        {
+            "trait_type": "twitter",
+            "value": ""
+        },
+        {
+            "trait_type": "discord",
+            "value": ""
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "HTYZSirWFp5BTjrLw5xXS1GADyREDyPDE21uCwxQznCH",
+                "share": 100
+            }
+        ]
+    }
 }
